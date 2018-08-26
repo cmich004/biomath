@@ -1,9 +1,7 @@
 ---
+layout: posts
 title: "Layout: Excerpt (Generated with Separator Tag)"
 excerpt_separator: "<!--more-->"
-categories:
-  - Layout
-  - Uncategorized
 tags:
   - content
   - excerpt
