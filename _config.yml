@@ -29,6 +29,8 @@ logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: false # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
+collections:
+  - projects
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -89,6 +91,6 @@ defaults:
       type: projects
     values:
       layout: post
-      collections: 
+      collection: 
         - projects
       read_time: true
