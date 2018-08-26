@@ -1,4 +1,4 @@
 ---
 layout: home
-image: assets/img/College,of,Science,Home,Page,Banner,1600.jpg
+image: assets/img/blog-bg1-1600x600.jpg
 ---
