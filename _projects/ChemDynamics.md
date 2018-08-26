@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Chemical Dynamics
 collection: projects
 image:
