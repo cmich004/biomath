@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: UC Riverside Quantitative Modeling
+title: UCR Quantitative Modeling
 email:
 description: Providing multiscale simulations in biological research
 baseurl: # the optional subpath of your site, e.g. "/blog"
