@@ -15,8 +15,8 @@ This software simulates combined growth of the L1, L2, and deeper L3 layers of t
 The program creates the following files:
 
 * Animate is a folder that contains .vtk files for viewing simulations in [ParaView](https://www.paraview.org/).
-* Nematic is a folder that contains individual information for each cell including, cell center and the main axis of elongation of each cell.
+* Nematic is a folder that contains individual information for each cell including, cell center and the main axis of elongation of each cell.  
 
- The code is available from [-gitHub](https://github.com/mikahlbk/ScePlantCells_Parallel).
+  The code is available from [-gitHub](https://github.com/mikahlbk/ScePlantCells_Parallel).  
 
 ## Research Contributors
