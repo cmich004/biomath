@@ -1,6 +1,4 @@
 ---
-layout: post
-read_time: true
 permalink: /sce/
 title: SCE Model
 image: 
