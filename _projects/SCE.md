@@ -4,6 +4,7 @@ image:
     path: assets/img/blog-bg1-1600x600.jpg
     thumbnail: blog-bg1-400x200.jpg 
     caption:  Test image
+collection: projects
 ---
 
 # Subcellular Elements model
