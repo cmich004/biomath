@@ -1,4 +1,5 @@
 ---
+layout: post
 title: SCE Model
 image: 
     path: assets/img/blog-bg1-1600x600.jpg
