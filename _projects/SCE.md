@@ -17,6 +17,6 @@ The program creates the following files:
 * Animate is a folder that contains .vtk files for viewing simulations in [ParaView](https://www.paraview.org/).
 * Nematic is a folder that contains individual information for each cell including, cell center and the main axis of elongation of each cell.  
 
-  The code is available from [-gitHub](https://github.com/mikahlbk/ScePlantCells_Parallel).  
+  The code is available from [gitHub](https://github.com/mikahlbk/ScePlantCells_Parallel).  
 
 ## Research Contributors
