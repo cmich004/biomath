@@ -26,7 +26,7 @@ author:
 twitter_username:
 github_username: cmich004/biomath
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: true # true, false (default)
+search: false # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
