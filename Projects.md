@@ -1,7 +1,8 @@
 ---
-title: Projects
 layout: collection
+title: Projects
 permalink: /projects/
 collection: projects
-entries_layout: grid # list (default), grid
+show_excerpts: true
+entries_layout: grid
 ---
