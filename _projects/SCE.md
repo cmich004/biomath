@@ -2,9 +2,9 @@
 permalink: /sce/
 title: SCE Model
 image: 
-    path: assets/img/blog-bg1-1600x600.jpg
-    thumbnail: assets/img/blog-bg1-400x200.jpg 
-    caption:  Test image
+  path: assets/img/blog-bg1-1600x600.jpg
+  thumbnail: assets/img/blog-bg1-400x200.jpg 
+  caption:  Test image
 collection: projects
 ---
 
