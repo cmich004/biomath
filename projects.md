@@ -6,4 +6,3 @@ collection: projects
 show_excerpts: true
 entries_layout: grid
 ---
-Test text 2
