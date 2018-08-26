@@ -8,12 +8,14 @@ image:
 collection: projects
 ---
 
-# Subcellular Elements model
-The Subcellular Elements (SCE) model is a simulation of shoot apical meristem growth.  Each cell in the tissue is a composite of nodes connected by springs whose growth is driven by pressure and WUS concenctraion.
+# Subcellular Element model
+## of growth of the shoot apical meristem (SAM) of Arabidopsis thaliana
+This software simulates combined growth of the L1, L2, and deeper L3 layers of the SAM where individual cells are represented as collections of nodes representing subcellular components of cells.
 
-## Source code
-(Links to code)
+The program creates the following files:
+
+*Animate is a folder that contains .vtk files for viewing simulations in [ParaView](https://www.paraview.org/).
+*Nematic is a folder that contains individual information for each cell including, cell center and the main axis of elongation of each cell.
+The code is available from [-gitHub](https://github.com/mikahlbk/ScePlantCells_Parallel).
 
 ## Research Contributors
-
-(Links to investigators)
