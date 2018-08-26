@@ -89,4 +89,5 @@ defaults:
       type: projects
     values:
       layout: post
+      collection: projects
       read_time: true
