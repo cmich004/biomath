@@ -19,4 +19,5 @@ The program creates the following files:
 
   The code is available from [gitHub](https://github.com/mikahlbk/ScePlantCells_Parallel).  
 
-## Research Contributors
+### Research Contributors
+Mikahl Banwarth-Kuhn, Christian Michael, and Mark Alber
