@@ -12,9 +12,9 @@ introduction: |
   - Disqus Comments and Google Analytics support
   - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
 actions:
-  - label: "Get Started"
+  - label "projects"
     icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+    url: "https://cmich004.github.io/biomath/projects/"
   - label: "Download"
     icon: download
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
@@ -43,10 +43,4 @@ actions:
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 ---
 
----
-
-actions:
-  - label "projects"
-    icon: github
-    url: "https://cmich004.github.io/biomath/projects/"
 
