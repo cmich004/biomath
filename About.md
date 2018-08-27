@@ -13,3 +13,9 @@ permalink: /about/
 |# Mikahl Banwarth-Kuhn | |
 | --- | ---:|
 |Ph.D. Student in Mathematics ant University of California, Riverside. | ![alt text](assets/img/bkuhn_profile.jpg) |
+
+# Test name 
+{: .text-left}
+
+![alt text](assets/img/bkuhn_profile.jpg)
+{: .text-right}
