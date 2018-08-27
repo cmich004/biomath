@@ -1,5 +1,5 @@
 ---
-title: Research Portal
+title: Research Hub 
 layout: post
 permalink: /portal/
 image:
