@@ -21,7 +21,7 @@ Ph.D. Student in Mathematics at University of California, Riverside.
 {: .text-right}
 
 # Christian Michael
-Ph.D. Student in Mathematics at University of California, Riverside. 
+Ph.D. Student in Mathematics at University of California, Riverside. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. Much longer body text. 
 {: .text-left}
 ![alt text](assets/img/michaelc_web.JPG)
 {: .text-right}
