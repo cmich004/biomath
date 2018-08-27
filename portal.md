@@ -1,5 +1,6 @@
 ---
 title: Research Portal
+layout: post
 permalink: /portal/
 image:
   path: assets/img/College,of,Science,Home,Page,Banner,1600.jpg
