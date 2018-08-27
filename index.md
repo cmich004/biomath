@@ -10,5 +10,5 @@ introduction: |
 actions:
   - label "projects"
     icon: 
-    url: https://cmich004.github.io/biomath/projects/
+    url: https://cmich004.github.io/biomath/projects/ |
 ---
