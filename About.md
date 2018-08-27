@@ -15,4 +15,4 @@ Ph.D. Student in Mathematics at University of California, Riverside.
 # Mikahl Banwarth-Kuhn
 Ph.D. Student in Mathematics ant University of California, Riverside.
 
-![alt text](bkuhn_profile.jpg)
+![alt text](assets/img/bkuhn_profile.jpg)
