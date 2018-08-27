@@ -4,13 +4,11 @@ paginate: true
 alt_title: "UC Riverside center for Quantitative Modeling"
 image: /assets/img/blog-bg1-1600x600.jpg
 introduction: |
-  Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+  Our introduction text is going to go here. We do math modeling research on 
 
-  - Clean responsive design with six customizable skins
-  - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-  - About page layout
-  - Disqus Comments and Google Analytics support
-  - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+  - this
+  - that
+  - the other
 actions:
   - label: "projects"
     icon: github
