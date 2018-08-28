@@ -10,7 +10,7 @@ introduction: |
   - Shoot Apical Meristem stability
   - Mosquito community proliferation
 actions:
-  - label: "projects"
+  - label: "Projects"
     icon: arrow-right
     url: "https://cmich004.github.io/biomath/projects/"
 ---
