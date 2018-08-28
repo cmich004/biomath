@@ -1,6 +1,6 @@
 ---
 layout: home
-paginate: true
+paginate: false
 alt_title: "UC Riverside center for Quantitative Modeling"
 image: /assets/img/blog-bg1-1600x600.jpg
 introduction: |
