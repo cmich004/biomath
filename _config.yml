@@ -20,14 +20,14 @@ description: Providing multiscale simulations in biological research
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
-  twitter:
+  name: Christian Michael
+  twitter: 
   picture:
 twitter_username:
 github_username: cmich004/biomath
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: false # true, false (default)
-search_full_content: false # true, false (default)
+search: true # true, false (default)
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
 collections:
   projects: 
@@ -50,7 +50,7 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 1
+paginate: 5
 paginate_path: /page:num/
 
 # Exclude from processing.
