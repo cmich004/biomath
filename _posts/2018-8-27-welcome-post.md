@@ -1,6 +1,6 @@
 ---
 title: Coming soon
-author: "Christian Michael"
+author: ChristianMichael
 tags:
   - site
 ---
